@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="src"/>
+	<buildpathentry kind="src" path="vendor/symfony/translation"/>
+	<buildpathentry kind="src" path="vendor/composer"/>
+	<buildpathentry kind="src" path="vendor/silex/silex/src/Silex"/>
+	<buildpathentry kind="src" path="vendor/symfony/event-dispatcher"/>
+	<buildpathentry kind="src" path="vendor/psr/log/Psr/Log"/>
+	<buildpathentry kind="src" path="vendor/symfony/http-foundation"/>
+	<buildpathentry kind="src" path="vendor/symfony/routing"/>
+	<buildpathentry kind="src" path="vendor/symfony/http-kernel"/>
+	<buildpathentry kind="src" path="vendor/symfony/polyfill-mbstring"/>
+	<buildpathentry kind="src" path="vendor/symfony/debug"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+	<buildpathentry kind="src" path="vendor/pimple/pimple/src"/>
+</buildpath>
