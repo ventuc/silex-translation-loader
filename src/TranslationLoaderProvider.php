@@ -1,6 +1,6 @@
 <?php
 
-namespace ClaudioVenturini\Silex;
+namespace ClaudioVenturini\Silex\TranslationLoader;
 
 use Pimple\ServiceProviderInterface;
 use Pimple\Container;

@@ -1,6 +1,6 @@
 <?php
 
-namespace ClaudioVenturini\Silex;
+namespace ClaudioVenturini\Silex\TranslationLoader;
 
 use Symfony\Component\Translation\Translator;
 
