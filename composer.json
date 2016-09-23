@@ -2,7 +2,7 @@
 	"name" : "claudio-venturini/silex-translation-loader",
 	"type" : "library",
 	"description" : "Silex service to simplify translation resources loading",
-	"version" : "0.1.1-dev",
+	"version" : "0.1.2-dev",
 	"license" : "MIT",
 	"keywords" : [
 		"silex",
